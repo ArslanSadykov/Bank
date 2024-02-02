@@ -1,8 +1,0 @@
-POST localhost:8080/users
-Accept: application/json
-
-{
-  "login": "satanidea"
-  "password": "1234"
-  "fullname": "Arslan"
-}
